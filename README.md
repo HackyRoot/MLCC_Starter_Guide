@@ -1,5 +1,5 @@
 # Machine Learning Crash Course Starter Guide
-This guide provides technical and mathematical background required for Google's Machine Learning Crash Course(MLCC) to beginners.
+This guide provides technical and mathematical background required for Google's [Machine Learning Crash Course(MLCC)](http://g.co/mledu/studyjams-IN) to beginners.
 
 ## Why?
 MLCC is great but sometimes people get stuck for weeks just because they don't have basic background in mathematics and python required for MLCC. Here I tried to help you kickstart your journey with Machine Learning.
@@ -11,6 +11,12 @@ Then please give a star and contribute to make it more informative.
 - [X] Math
 - [ ] Basic Python
 - [ ] More Python (numpy, matplotlib, seaborn)
+
+## Future Goals
+- [] Basic ML algorithms with practical examples
+- [] Case studies
+- [] Deploying ML models
+
 
 ## Source
 Thanks to amazing teachers and educators from all around the world, I was able to create this guide in just two weeks. Major resources used to create this guide:
