@@ -9,6 +9,10 @@ This guide provides technical and mathematical background required for Google's 
 ## Why?
 MLCC is great but sometimes people get stuck for weeks just because they don't have basic background in mathematics and python required for MLCC. Here we're trying to help you kickstart your journey with Machine Learning.
 
+## How to use this guide?
+You can either download whole repository and access it offline using [Jupyter notebook](https://jupyter.org/install.html), which comes preinstalled with [Anaconda](https://www.anaconda.com/distribution/#download-section).
+**OR** you can access notebooks using `View in Colaboratory` link in the starting of notebooks.
+
 ## Found this guide helpful? 
 Then please give a star and contribute to make it more informative.
 
