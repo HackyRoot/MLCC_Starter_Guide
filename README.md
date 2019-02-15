@@ -18,8 +18,8 @@ Then please give a star and contribute to make it more informative.
 
 ## Progress
 - [X] Math
-- [ ] Basic Python iPython Notebook
-- [ ] Advance Python iPython Notebook (numpy, matplotlib, seaborn)
+- [X] Basic Python iPython Notebook
+- [X] Advance Python iPython Notebook (numpy, matplotlib, seaborn)
 
 ## Future Goals
 - [ ] Basic ML algorithms with practical examples
